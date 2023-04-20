@@ -1,1 +1,1 @@
-# SSL-Config
+協力：GPT3.5さま
